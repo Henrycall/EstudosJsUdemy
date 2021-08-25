@@ -4,4 +4,5 @@ module.exports = {
         return 'Boa noite'
     }
 }
-module.exports.boaTarde= "Opa, boa tarde,estou fazendo um teste!"
+ exports.boaTarde= "Opa, boa tarde,estou fazendo um teste!"
+
